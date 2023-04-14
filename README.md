@@ -1,5 +1,5 @@
 # data-structure
-EN.605.202 spring data structure projects.
+EN.605.202 spring data structure projects.  
 Each Lab have the idea environment file, src source code file, a summary analysis pdf file of the project, the exemplary i/o file are also provided if the Lab need and a readme file which provided the guidance of the using and basic information.  
   
 Content:  
