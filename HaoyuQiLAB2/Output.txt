@@ -1,0 +1,63 @@
+Your input prefix is:   -+ABC
+Your postfix is : AB+C-
+
+
+Your input prefix is:   -A+BC
+Your postfix is : AB+C-ABC+-
+
+
+Your input prefix is:   $+-ABC+D-EF
+Your postfix is : AB+C-ABC+-AB-C+DEF-+$
+
+
+Your input prefix is:   -*A$B+C-DE*EF
+Your postfix is : AB+C-ABC+-AB-C+DEF-+$ABCDE-+$*EF*-
+
+
+Your input prefix is:   **A+BC+C-BA
+Your postfix is : AB+C-ABC+-AB-C+DEF-+$ABCDE-+$*EF*-ABC+*CBA-+*
+
+
+Your input prefix is:   /A+BC+C*BA
+Unable to form valid expression, check your input
+
+Your input prefix is:   *-*-ABC+BA
+Unable to form valid expression, check your input
+
+Your input prefix is:   /+/A-BC-BA
+Unable to form valid expression, check your input
+
+Your input prefix is:   *$A+BC+C-BA
+Your postfix is : AB+C-ABC+-AB-C+DEF-+$ABCDE-+$*EF*-ABC+*CBA-+*ABC+$CBA-+*
+
+
+Your input prefix is:   //A+B0-C+BA
+Your postfix is : AB+C-ABC+-AB-C+DEF-+$ABCDE-+$*EF*-ABC+*CBA-+*ABC+$CBA-+*AB0+/CBA+-/
+
+
+Your input prefix is:   *$A^BC+C-BA
+input hava invalid element, check your input
+
+Your input prefix is:   ^&$#@
+input hava invalid element, check your input
+
+Your input prefix is:   ABABAB
+Unable to form valid expression, check your input
+
+Your input prefix is:   +++---
+Unable to form valid expression, check your input
+
+Your input prefix is:   A+B+C-A*A
+Your postfix is : AB+C-ABC+-AB-C+DEF-+$ABCDE-+$*EF*-ABC+*CBA-+*ABC+$CBA-+*AB0+/CBA+-/A
+
+
+Your input prefix is:   ABCDEF++++
+Unable to form valid expression, check your input
+
+Your input prefix is:   -*A$BC-DE*EF
+Unable to form valid expression, check your input
+
+Your input prefix is:   $+-123+D-EF
+Your postfix is : AB+C-ABC+-AB-C+DEF-+$ABCDE-+$*EF*-ABC+*CBA-+*ABC+$CBA-+*AB0+/CBA+-/A12-3+DEF-+$
+
+
